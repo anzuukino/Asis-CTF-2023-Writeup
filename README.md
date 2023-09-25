@@ -3,7 +3,7 @@
 - Tóm tắt đề thì đại khái là đề bảo chúng ta phải request mỗi cái method get có parameter là x lên Web sao cho không có chữ next và chữ file là được, nhưng mà muốn đọc được flag thì phải đọc được file next.txt
 - Đọc đề thì mình thấy người ta cho hint là đi đọc cái manpage curl đi, thì oke mình cũng đi đọc
 ![Screenshot 2023-09-25 082235](https://github.com/Yuu2311/Asis-CTF-2023-Writeup/assets/86243871/7ae2fa24-1f2a-488d-aec3-16dc969752b7)
-- Sau 2 tiếng đọc đề ( không tính thời gian chơi csgo <(") ) thì mình cũng hiểu ra vấn đề chúng ta có thể tận dụng cái này
+- Sau 2 tiếng đọc manpage ( không tính thời gian chơi csgo <(") ) thì mình cũng hiểu ra vấn đề chúng ta có thể tận dụng cái này
 ![Screenshot 2023-09-25 082723](https://github.com/Yuu2311/Asis-CTF-2023-Writeup/assets/86243871/4ca2f9ea-6be0-4316-bce4-9d516d02797f)
 - Đây là payload của mình **?x=f[a-i]le:///ne[b-x]t.txt**
 ![image](https://github.com/Yuu2311/Asis-CTF-2023-Writeup/assets/86243871/016a706a-2952-4865-a600-25ac49ddf104)
