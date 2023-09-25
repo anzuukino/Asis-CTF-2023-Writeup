@@ -28,7 +28,7 @@
 - Đoạn này mình đã định đấm máy rồi xong decode cái nữa thì rất là yêu đời
 ![image](https://github.com/Yuu2311/Asis-CTF-2023-Writeup/assets/86243871/446dd52b-5567-4af4-98be-fa0192cd49b6)
 - Flag: **ASIS{good_job_bun}**
-~~ Mấy bài còn lại mình chịu nha <(") ~~
+- ~~Mấy bài còn lại mình chịu nha <(")~~
 
 
 
